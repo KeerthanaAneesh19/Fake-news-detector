@@ -1,2 +1,14 @@
-# Fake-news-detector
-Fake News Detection System is a machine learning project that classifies news as real or fake using text preprocessing and TF-IDF vectorization. It applies models like Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest, and allows users to input custom news for real-time prediction.
+# Fake News Detection
+
+## Overview
+Machine Learning project to classify news as Fake or Real.
+
+## Models Used
+- Logistic Regression
+- Decision Tree
+- Gradient Boosting
+- Random Forest
+
+## How to Run
+pip install -r requirements.txt
+python fake_news_detection.py
